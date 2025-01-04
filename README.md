@@ -13,7 +13,7 @@ API_KEY = ""
 SECRET_KEY = ""
 ```
 
-> 程序会读取程序所在文件夹(及子文件夹)内所有`png/jpg/pdf格票文件`. 两个KEY在百度官网自行获取：https://console.bce.baidu.com/ai-engine/ocr/overview/index
+> 程序会读取程序所在文件夹(及子文件夹)内所有`png/jpg/pdf格式文件`. 两个KEY在百度官网自行获取：https://console.bce.baidu.com/ai-engine/ocr/overview/index
 
 随后运行：
 ```
